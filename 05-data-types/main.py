@@ -1,0 +1,9 @@
+a_str = "String"
+a_int = -2
+a_float = 1.5
+a_bool = True
+a_list = [1, 2, 3, 4]
+a_tuple = (1, 2, 3, 4)
+a_dict = {"key-1": "value-1", "key-2": "value-2"}
+a_set = {1, 2, 3}
+a_frozenset = frozenset({1, 2, 3})
